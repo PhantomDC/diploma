@@ -1,9 +1,170 @@
 [
   {
-    "searchWord": "Круг",
+    "searchWord": "Лесозаготовка",
+    "stressIndex": 9,
+    "part": "su",
+    "stress": 2,
+    "_id": "sf0svlhafmk5i3fh"
+  },
+  {
+    "searchWord": "Сучки",
+    "stressIndex": 4,
+    "part": "su",
     "stress": 0,
+    "_id": "fvuscg9t7eix4omd"
+  },
+  {
+    "searchWord": "Квадрат",
+    "stressIndex": 5,
+    "part": "su",
+    "stress": 0,
+    "_id": "1st2fo0bqub9ry8l"
+  },
+  {
+    "searchWord": "Постулат",
+    "stressIndex": 6,
+    "part": "su",
+    "stress": 1,
+    "_id": "1u5l53621gskn99n"
+  },
+  {
+    "searchWord": "Круг",
     "stressIndex": 2,
     "part": "su",
+    "stress": 0,
     "_id": "cz77nqzk3os58a7i"
+  },
+  {
+    "searchWord": "Сердце",
+    "stressIndex": 1,
+    "part": "su",
+    "stress": 1,
+    "_id": "ph6kziwyylujfees"
+  },
+  {
+    "searchWord": "Единоверцы",
+    "stressIndex": 6,
+    "part": "su",
+    "stress": 2,
+    "_id": "xfl4depbab129yt7"
+  },
+  {
+    "searchWord": "Чувств",
+    "stressIndex": 1,
+    "part": "su",
+    "stress": 1,
+    "_id": "zkyejvvohq2j5ym0"
+  },
+  {
+    "searchWord": "Пуст",
+    "stressIndex": 1,
+    "part": "pr",
+    "stress": 1,
+    "_id": "wuuay1r2dwb45gc1"
+  },
+  {
+    "searchWord": "Секунд",
+    "stressIndex": 3,
+    "part": "su",
+    "stress": 1,
+    "_id": "njkrh00exh1rqlst"
+  },
+  {
+    "searchWord": "Бегут",
+    "stressIndex": 3,
+    "part": "gl",
+    "stress": 1,
+    "_id": "98i68oultkvj5qjt"
+  },
+  {
+    "searchWord": "Исподволь",
+    "stressIndex": 0,
+    "part": "na",
+    "stress": 3,
+    "_id": "gbwcuzbuzc2c1kpz"
+  },
+  {
+    "searchWord": "Исповедь",
+    "stressIndex": 0,
+    "part": "su",
+    "stress": 3,
+    "_id": "ql1s760w93o7tvkt"
+  },
+  {
+    "searchWord": "Море",
+    "stressIndex": 1,
+    "part": "su",
+    "stress": 1,
+    "_id": "9tcsat4kouc19fbr"
+  },
+  {
+    "searchWord": "Спорим",
+    "stressIndex": 2,
+    "part": "gl",
+    "stress": 1,
+    "_id": "y0lsqb21k5hzw3dl"
+  },
+  {
+    "searchWord": "Морит",
+    "stressIndex": 1,
+    "part": "gl",
+    "stress": 2,
+    "_id": "8enosw6y66jin9vt"
+  },
+  {
+    "searchWord": "Поле",
+    "stressIndex": 1,
+    "part": "su",
+    "stress": 1,
+    "_id": "4aze6dl1i5u4j8ih"
+  },
+  {
+    "searchWord": "Стирать",
+    "stressIndex": 4,
+    "part": "gl",
+    "stress": 1,
+    "_id": "1kh0h3lzjlkpqc42"
+  },
+  {
+    "searchWord": "Вдруг",
+    "stressIndex": 3,
+    "part": "na",
+    "stress": 0,
+    "_id": "4yf4w8i9w4ezykzu"
+  },
+  {
+    "searchWord": "Стезя",
+    "stressIndex": 4,
+    "part": "su",
+    "stress": 0,
+    "_id": "zohf993nxx7g0tla"
+  },
+  {
+    "searchWord": "Нельзя",
+    "stressIndex": 5,
+    "part": "sl",
+    "stress": 0,
+    "_id": "ddr8uy8sz8cn8lhf"
+  },
+  {
+    "searchWord": "Вторю",
+    "stressIndex": 2,
+    "part": "gl",
+    "stress": 1,
+    "_id": "mbxemmgugk7i53ov"
+  },
+  {
+    "searchWord": "Фтора",
+    "stressIndex": 2,
+    "part": "su",
+    "stress": 1,
+    "_id": "sr3v4m2vf6l7ca98"
+  },
+  {
+    "searchWord": "Флора",
+    "stressIndex": 2,
+    "part": "su",
+    "stress": 1,
+    "_id": "7k6cwlqma34doco0"
   }
 ]

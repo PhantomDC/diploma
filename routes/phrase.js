@@ -45,7 +45,8 @@ route.post('/add', ({ body }, res) => {
 
   const data = db.add('data', {
     ...body,
-    stress
+    stress,
+    hash: dictionary.hash(data.searchWord)
   })
 
   res.status(200).json({

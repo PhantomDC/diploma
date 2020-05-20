@@ -1,1 +1,9 @@
-/Users/artemzivokorencev/Desktop/project/diploma/backups/mock-variants.json
+{
+  "accurat": "Точная",
+  "approximate": "Приблизительная",
+  "rich": "Богатая",
+  "poor": "Бедная",
+  "uniform": "Однородная",
+  "dissimilar": "Разнородная",
+  "assonance": "Ассонанс"
+}

@@ -8,6 +8,7 @@ const app = express();
 
 const userRouter = require('./routes/user');
 const phraseRouter = require('./routes/phrase');
+const searchRouter = require('./routes/search');
 
 // Constants
 
@@ -15,8 +16,8 @@ const PORT = config.get('PORT');
 
 app.use(bodyParser.json());
 app.use('/api/users', userRouter);
-
 app.use('/api/phrase', phraseRouter);
+app.use('/api/search', searchRouter)
 
 app.listen(PORT, () => {
   console.log('Server has been started on port', PORT);

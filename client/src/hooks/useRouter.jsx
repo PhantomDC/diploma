@@ -3,6 +3,7 @@ import { Switch, Route, Redirect } from 'react-router-dom';
 
 // Pages
 
+import { MainPage } from '../pages/main';
 import { AuthPage } from '../pages/auth';
 import { ListPage } from '../pages/list';
 import { AddPage } from '../pages/add';
@@ -14,7 +15,7 @@ export const useRouter = (isAuth) => {
     return (
       <Switch>
         <Route path="/" exact>
-          Главная
+          <MainPage />
         </Route>
         <Route path='/login'>
           <AuthPage />
@@ -26,6 +27,9 @@ export const useRouter = (isAuth) => {
 
   return (
     <Switch>
+      <Route path="/" exact>
+        <MainPage />
+      </Route>
       <Route path='/admin/list' exact>
         <ListPage />
       </Route>

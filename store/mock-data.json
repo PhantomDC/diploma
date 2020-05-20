@@ -1,1 +1,194 @@
-[{"searchWord":"Кишки","stressIndex":4,"part":"su","stress":0,"_id":"9un95i0vvy2wtj6f"},{"searchWord":"Сучки","stressIndex":1,"part":"su","stress":1,"_id":"fvuscg9t7eix4omd"},{"searchWord":"Лесозаготовка","stressIndex":9,"part":"su","stress":2,"_id":"sf0svlhafmk5i3fh"},{"searchWord":"Чёрт","stressIndex":1,"part":"su","stress":1,"_id":"3yw3vqgrfaqllzts"},{"searchWord":"Круг","stressIndex":3,"part":"su","_id":"cz77nqzk3os58a7i"}]
+[
+  {
+    "searchWord": "Лесозаготовка",
+    "stressIndex": 9,
+    "part": "su",
+    "stress": 1,
+    "_id": "sf0svlhafmk5i3fh",
+    "hash": "0101010101001"
+  },
+  {
+    "searchWord": "Сучки",
+    "stressIndex": 4,
+    "part": "su",
+    "stress": 0,
+    "_id": "fvuscg9t7eix4omd",
+    "hash": "01001"
+  },
+  {
+    "searchWord": "Квадрат",
+    "stressIndex": 5,
+    "part": "su",
+    "stress": 0,
+    "_id": "1st2fo0bqub9ry8l",
+    "hash": "0010010"
+  },
+  {
+    "searchWord": "Постулат",
+    "stressIndex": 6,
+    "part": "su",
+    "stress": 0,
+    "_id": "1u5l53621gskn99n",
+    "hash": "01001010"
+  },
+  {
+    "searchWord": "Круг",
+    "stressIndex": 2,
+    "part": "su",
+    "stress": 0,
+    "_id": "cz77nqzk3os58a7i",
+    "hash": "0010"
+  },
+  {
+    "searchWord": "Сердце",
+    "stressIndex": 1,
+    "part": "su",
+    "stress": 1,
+    "_id": "ph6kziwyylujfees",
+    "hash": "010001"
+  },
+  {
+    "searchWord": "Единоверцы",
+    "stressIndex": 6,
+    "part": "su",
+    "stress": 1,
+    "_id": "xfl4depbab129yt7",
+    "hash": "1010101001"
+  },
+  {
+    "searchWord": "Чувств",
+    "stressIndex": 1,
+    "part": "su",
+    "stress": 0,
+    "_id": "zkyejvvohq2j5ym0",
+    "hash": "010000"
+  },
+  {
+    "searchWord": "Пуст",
+    "stressIndex": 1,
+    "part": "pr",
+    "stress": 0,
+    "_id": "wuuay1r2dwb45gc1",
+    "hash": "0100"
+  },
+  {
+    "searchWord": "Секунд",
+    "stressIndex": 3,
+    "part": "su",
+    "stress": 0,
+    "_id": "njkrh00exh1rqlst",
+    "hash": "010100"
+  },
+  {
+    "searchWord": "Бегут",
+    "stressIndex": 3,
+    "part": "gl",
+    "stress": 0,
+    "_id": "98i68oultkvj5qjt",
+    "hash": "01010"
+  },
+  {
+    "searchWord": "Исподволь",
+    "stressIndex": 0,
+    "part": "na",
+    "stress": 2,
+    "_id": "gbwcuzbuzc2c1kpz",
+    "hash": "100100100"
+  },
+  {
+    "searchWord": "Исповедь",
+    "stressIndex": 0,
+    "part": "su",
+    "stress": 2,
+    "_id": "ql1s760w93o7tvkt",
+    "hash": "10010100"
+  },
+  {
+    "searchWord": "Море",
+    "stressIndex": 1,
+    "part": "su",
+    "stress": 1,
+    "_id": "9tcsat4kouc19fbr",
+    "hash": "0101"
+  },
+  {
+    "searchWord": "Спорим",
+    "stressIndex": 2,
+    "part": "gl",
+    "stress": 1,
+    "_id": "y0lsqb21k5hzw3dl",
+    "hash": "001010"
+  },
+  {
+    "searchWord": "Морит",
+    "stressIndex": 1,
+    "part": "gl",
+    "stress": 1,
+    "_id": "8enosw6y66jin9vt",
+    "hash": "01010"
+  },
+  {
+    "searchWord": "Поле",
+    "stressIndex": 1,
+    "part": "su",
+    "stress": 1,
+    "_id": "4aze6dl1i5u4j8ih",
+    "hash": "0101"
+  },
+  {
+    "searchWord": "Стирать",
+    "stressIndex": 4,
+    "part": "gl",
+    "stress": 0,
+    "_id": "1kh0h3lzjlkpqc42",
+    "hash": "0010100"
+  },
+  {
+    "searchWord": "Вдруг",
+    "stressIndex": 3,
+    "part": "na",
+    "stress": 0,
+    "_id": "4yf4w8i9w4ezykzu",
+    "hash": "00010"
+  },
+  {
+    "searchWord": "Стезя",
+    "stressIndex": 4,
+    "part": "su",
+    "stress": 0,
+    "_id": "zohf993nxx7g0tla",
+    "hash": "00101"
+  },
+  {
+    "searchWord": "Нельзя",
+    "stressIndex": 5,
+    "part": "sl",
+    "stress": 0,
+    "_id": "ddr8uy8sz8cn8lhf",
+    "hash": "010001"
+  },
+  {
+    "searchWord": "Вторю",
+    "stressIndex": 2,
+    "part": "gl",
+    "stress": 1,
+    "_id": "mbxemmgugk7i53ov",
+    "hash": "00101"
+  },
+  {
+    "searchWord": "Фтора",
+    "stressIndex": 2,
+    "part": "su",
+    "stress": 1,
+    "_id": "sr3v4m2vf6l7ca98",
+    "hash": "00101"
+  },
+  {
+    "searchWord": "Флора",
+    "stressIndex": 2,
+    "part": "su",
+    "stress": 1,
+    "_id": "7k6cwlqma34doco0",
+    "hash": "00101"
+  }
+]
