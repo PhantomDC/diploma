@@ -19,3 +19,7 @@ export const getRhymeById = (rhymeId, rhymes) => {
     return acc;
   }, []).join(', ');
 }
+
+export const getPartByPrefix = (prefix, parts) => {
+  return parts.filter(part => part.prefix === prefix)[0].name;
+}

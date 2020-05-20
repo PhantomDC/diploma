@@ -20,7 +20,7 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import { AppContainer } from '../../components/AppContainer';
 import { useHttp } from '../../hooks/useHttp';
 
-import { getPhraseWithStress, getRhymeById } from '../../helpers';
+import { getPhraseWithStress, getRhymeById, getPartByPrefix } from '../../helpers';
 
 const useStyles = makeStyles(({ spacing, typography }) => createStyles({
   searchForm: {
@@ -63,12 +63,15 @@ export const MainPage = () => {
   const [currentRhyme, setCurrentRhyme] = useState([]);
   const [expanded, setExpanded] = useState(false);
   const [data, setData] = useState([]);
+  const [parts, setParts] = useState([]);
 
 
   useEffect(() => {
     (async () => {
       const response = await request('/api/search/getVariants', 'POST', {}, {});
-      console.log(response.data);
+      const responseParts = await request('/api/search/getParts', 'POST', {}, {});
+
+      setParts(responseParts && responseParts.data.data);
       setRhymes(response.data.data);
     })()
   }, []);
@@ -119,7 +122,7 @@ export const MainPage = () => {
                   { renderHTML(getPhraseWithStress(d.phrase.searchWord, d.phrase.stressIndex)) }
                 </Typography>
                 <Box className={ cardRhyme }>
-                  <Typography color="textSecondary">Существительное</Typography>
+                  <Typography color="textSecondary">{ getPartByPrefix(d.phrase.part, parts) }</Typography>
                   <Typography color="textSecondary">{ getRhymeById(d.rhyme, rhymes) }</Typography>
                 </Box>
               </CardContent>
